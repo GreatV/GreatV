@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on algorithms in healthcare.
+- 🌱 I’m currently learning NLP & OCR.
+
 <!--
 **GreatV/GreatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
