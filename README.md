@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://www.buymeacoffee.com/greatx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!--
 **GreatV/GreatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
