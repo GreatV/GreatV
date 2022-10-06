@@ -28,9 +28,8 @@
 
 ### GitHub Stats
 
-[![GeatV's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreatV)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GeatV's GitHub stats](https://github-readme-stats-greatv.vercel.app/api?username=GreatV&show_icons=true&theme=cobalt)](https://github.com/GreatV)
+[![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=GreatV&layout=compact)](https://github.com/GreatV)
 
 <a href="https://www.buymeacoffee.com/greatx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
