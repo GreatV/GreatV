@@ -19,19 +19,15 @@
 - 📫 How to reach me: [GreatX's Blog](https://vlight.me) ![My Blog](https://img.shields.io/website-up-down-green-red/https/vlight.me.svg)
 [Gmail](mailto:xinwang614@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
 
-
-
-
-
-
-
-
-### GitHub Stats
+### My name is Wang Xin 😄
 
 [![GeatV's GitHub stats](https://github-readme-stats-greatv.vercel.app/api?username=GreatV&show_icons=true&theme=cobalt)](https://github.com/GreatV)
-[![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=GreatV&layout=compact)](https://github.com/GreatV)
 
-<a href="https://www.buymeacoffee.com/greatx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreatV&theme=gotham)](https://git.io/streak-stats)
+
+### Here you can see my favorite languages 🤔
+
+[![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=GreatV&layout=compact&theme=gotham)](https://github.com/GreatV)
 
 <!--
 **GreatV/GreatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
