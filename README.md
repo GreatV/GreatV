@@ -18,6 +18,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 - 📫 How to reach me: [GreatX's Blog](https://vlight.me) ![My Blog](https://img.shields.io/website-up-down-green-red/https/vlight.me.svg)
 [Gmail](mailto:xinwang614@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+- I'm **PPDE (PaddlePaddle Developer Expert)** and **PFCC (Paddle Framework Contributor Club)** member.
 
 ### My name is Wang Xin 😄
 
