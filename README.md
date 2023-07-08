@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on algorithms in healthcare.
-- 🌱 I’m currently learning NLP & OCR.
 - 👨‍💻 I'm currently using ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
