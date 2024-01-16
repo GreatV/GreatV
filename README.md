@@ -45,5 +45,3 @@ Here are some ideas to get you started:
 ### Github Contributions
 
 ![](https://raw.githubusercontent.com/GreatV/GreatV/output/github-contribution-grid-snake.svg)
-
-杯子撲落地，響聲明瀝瀝，虛空粉碎也，狂心當下歇。
