@@ -24,23 +24,10 @@
 
 [![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=GreatV&layout=compact&theme=gotham)](https://github.com/GreatV)
 
+### WakaTime
 
-<!--
-**GreatV/GreatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-我温柔地撒尿，朝着棕色的天空，
-又高又远，并得到硕大的向日葵的赞同。
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github Contributions
 
