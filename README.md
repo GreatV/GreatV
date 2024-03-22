@@ -27,6 +27,19 @@
 ### WakaTime
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 18 April 2017 - To: 21 March 2024
+
+Total Time: 2,202 hrs 26 mins
+
+Python                1,028 hrs 32 mins>>>>>>>>>>>--------------   44.93 %
+Markdown              425 hrs 20 mins >>>>>--------------------   18.58 %
+C++                   245 hrs 9 mins  >>>----------------------   10.71 %
+TeX                   178 hrs 58 mins >>-----------------------   07.82 %
+Other                 86 hrs 49 mins  >------------------------   03.79 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Github Contributions
