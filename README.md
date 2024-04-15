@@ -24,24 +24,6 @@
 
 [![Top Langs](https://github-readme-stats-greatv.vercel.app/api/top-langs/?username=GreatV&layout=compact&theme=gotham)](https://github.com/GreatV)
 
-### WakaTime
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 18 April 2017 - To: 14 April 2024
-
-Total Time: 2,218 hrs 11 mins
-
-Python                1,040 hrs 55 mins>>>>>>>>>>>--------------   45.15 %
-Markdown              426 hrs 26 mins >>>>>--------------------   18.50 %
-C++                   245 hrs 11 mins >>>----------------------   10.63 %
-TeX                   178 hrs 58 mins >>-----------------------   07.76 %
-Other                 87 hrs 27 mins  >------------------------   03.79 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Github Contributions
 
 ![](https://raw.githubusercontent.com/GreatV/GreatV/output/github-contribution-grid-snake.svg)
