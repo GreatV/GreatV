@@ -27,7 +27,3 @@
 ### Github Contributions
 
 ![](https://raw.githubusercontent.com/GreatV/GreatV/output/github-contribution-grid-snake.svg)
-
-### WeChat Media Platform
-
-![qrcode_for_gh_5e37011ac08c_258](https://github.com/GreatV/GreatV/assets/17264618/cdd7ce43-afee-4685-aec5-be6a7addb9cc)
